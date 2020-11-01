@@ -46,7 +46,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 ![SARIMA Model](./Visualizations/SARIMA_Model.PNG)
 > SARIMA Model
 
-![Results](./Visualizations/results.PNG)
+![Results](./Visualizations/Results.PNG)
 > Modeling Results
 
 
