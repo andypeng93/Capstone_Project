@@ -54,7 +54,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 To summarize everything above, we explored public holidays and its relationship to Gucheng's PM2.5 levels.
 
-We concluded that there wasn't any specific pattern that stood out in our visualizations. However, there are things we can further explore given more time such as holidays that are specific to Gucheng region.
+We concluded that there seems to be slight increase during and after the New Year holiday. The other public holidays had no pattern that stood out in our visualizations. However, there are things we can further explore given more time such as holidays that are specific to Gucheng region.
 
 After that we explored the stationary patterns in our data and found that there was slight stationary in our weekly data.
 
