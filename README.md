@@ -74,7 +74,7 @@ There are many things that we didn't due to lack of time and money constraints. 
 
 
 ### For further information
-Please review the narrative of our analysis in [our jupyter notebook](./Capstone_Project.ipynb) or review our [presentation](./Capstone_Presentation_(Notes).pdf)
+Please review the narrative of our analysis in [our jupyter notebook](./Capstone_Project.ipynb) or review our [presentation](./Capstone_Presentation.pptx.pdf)
 
 For any additional questions, please contact **andypeng93@gmail.com)
 
