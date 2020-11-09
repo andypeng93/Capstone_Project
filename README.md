@@ -30,7 +30,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 #### Visual 2
 ![PM2.5 Graph Scale](./Visualizations/PM2.5_Scale.PNG)
-> PM2.5 Graph Scale Levels
+> PM2.5 Scale Levels Graph
 
 #### Visual 3
 ![Holiday Effects](./Visualizations/Holidays.PNG)
@@ -38,13 +38,13 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 #### Models
 ![Naive Forecasting](./Visualizations/Naive.PNG)
-> Naive Forecasting
+> Naive Forecasting Predictions
 
 ![Linear Regression](./Visualizations/Linear.PNG)
-> Linear Regression
+> Linear Regression Predictions
 
 ![SARIMA Model](./Visualizations/SARIMA_Model.PNG)
-> SARIMA Model
+> SARIMA Model Predictions
 
 ![Results](./Visualizations/Results.PNG)
 > Modeling Results
