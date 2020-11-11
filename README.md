@@ -12,7 +12,7 @@ A company has tasked us to investigate the air quality in Gucheng area in China.
 
 
 ### Data
-Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data). The dataset contains hourly air pollutants data from 12 nationally-controlled air quality monitoring sites. In the csv file there are hourly air pollutants data going from March 01, 2013 to February 28, 2017. We will mainly focus on the PM2.5 index values from Gucheng monitoring site. 
+Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data). The dataset contains hourly air pollutants data from 12 nationally-controlled air quality monitoring sites. We will mainly focus on the PM2.5 index values from Gucheng monitoring site. Therefore the csv file provided above contains hourly air pollutants data from March 01, 2013 to February 28, 2017 from Gucheng's monitoring site.
 
 
 ## Methods
