@@ -25,7 +25,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 
 #### Visual 1
-![PM2.5 Cutoffs](./Visualizations/PM2.5_Index.PNG)
+<img src=./Visualizations/PM2.5_Index.PNG width="770">
 > PM2.5 Cutoff Levels
 
 #### Visual 2
