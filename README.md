@@ -29,7 +29,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 > PM2.5 Cutoff Levels
 
 #### Visual 2
-![PM2.5 Graph Scale](./Visualizations/PM2.5_Scale.PNG)
+<img src=./Visualizations/PM2.5_Scale.PNG width="770">
 > PM2.5 Scale Levels Graph
 
 #### Visual 3
