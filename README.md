@@ -33,7 +33,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 > PM2.5 Scale Levels Graph
 
 #### Visual 3
-![Holiday Effects](./Visualizations/Holidays.PNG)
+<img src=./Visualizations/Holidays.PNG width="770">
 > Effects of Holiday on PM2.5 levels
 
 #### Models
