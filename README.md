@@ -37,7 +37,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 > Effects of Holiday on PM2.5 levels
 
 #### Models
-![Naive Forecasting](./Visualizations/Naive.PNG)
+<img src=./Visualizations/Naive.PNG width="770">
 > Naive Forecasting Predictions
 
 ![Linear Regression](./Visualizations/Linear.PNG)
