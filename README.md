@@ -40,7 +40,7 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 <img src=./Visualizations/Naive.PNG width="770">
 > Naive Forecasting Predictions
 
-![Linear Regression](./Visualizations/Linear.PNG)
+<img src=./Visualizations/Linear.PNG width="770">
 > Linear Regression Predictions
 
 ![SARIMA Model](./Visualizations/SARIMA_Model.PNG)
