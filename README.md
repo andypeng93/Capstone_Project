@@ -46,7 +46,8 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 <img src=./Visualizations/SARIMA_Model.PNG width="770">
 > SARIMA Model Predictions
 
-![Results](./Visualizations/Results.PNG)
+
+<img src=./Visualizations/Results.PNG width="770">
 > Modeling Results
 
 
