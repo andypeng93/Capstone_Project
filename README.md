@@ -30,7 +30,9 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 #### Visual 2
 <img src=./Visualizations/PM2.5_Scale.PNG width="770">
-> PM2.5 Scale Levels Graph
+> PM2.5 Scale Levels Graph 
+
+Need to explore the spikes.
 
 #### Visual 3
 <img src=./Visualizations/Holidays.PNG width="770">
