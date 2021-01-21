@@ -25,31 +25,31 @@ Our dataset comes from [UCI](https://archive.ics.uci.edu/ml/datasets/Beijing+Mul
 
 
 #### Visual 1
-<img src=./Visualizations/PM2.5_Index.PNG width="770">
+<img src=./Visualizations/PM2.5_Index.PNG width="700">
 > PM2.5 Cutoff Levels
 
 #### Visual 2
-<img src=./Visualizations/PM2.5_Scale.PNG width="770">
+<img src=./Visualizations/PM2.5_Scale.PNG width="700">
 > PM2.5 Scale Levels Graph 
 
 Need to explore the spikes.
 
 #### Visual 3
-<img src=./Visualizations/Holidays.PNG width="770">
+<img src=./Visualizations/Holidays.PNG width="700">
 > Effects of Holiday on PM2.5 levels
 
 #### Models
-<img src=./Visualizations/Naive.PNG width="770">
+<img src=./Visualizations/Naive.PNG width="700">
 > Naive Forecasting Predictions
 
-<img src=./Visualizations/Linear.PNG width="770">
+<img src=./Visualizations/Linear.PNG width="700">
 > Linear Regression Predictions
 
-<img src=./Visualizations/SARIMA_Model.PNG width="770">
+<img src=./Visualizations/SARIMA_Model.PNG width="700">
 > SARIMA Model Predictions
 
 
-<img src=./Visualizations/Results.PNG width="770">
+<img src=./Visualizations/Results.PNG width="700">
 > Modeling Results
 
 
