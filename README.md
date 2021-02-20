@@ -87,7 +87,7 @@ Here is where you would describe the structure of your repoistory and its conten
 ```
 
 ├── README.md                       <- The top-level README for reviewers of this project.
-├── Capstone_Porject.ipynb             <- narrative documentation of analysis in jupyter notebook
+├── Capstone_Project.ipynb             <- narrative documentation of analysis in jupyter notebook
 ├── presentation.pdf                <- pdf version of project presentation
 └── Visualization
     └── images                          <- both sourced externally and generated from code
