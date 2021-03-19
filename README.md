@@ -1,7 +1,7 @@
 # Air Pollution Time Series
 ## Capstone Project
 
-**Authors**: Andy Peng
+**Author**: Andy Peng
 
 The contents of this repository detail an analysis of the Capstone project. This analysis is detailed in hopes of making the work accessible and replicable.
 
