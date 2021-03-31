@@ -3,7 +3,7 @@
 
 **Author**: Andy Peng
 
-The contents of this repository detail an analysis of the Capstone project. This analysis is detailed in hopes of making the work accessible and replicable.
+The contents of this repository detail an analysis of the air pollution in Gucheng, China. This analysis is detailed in hopes of making the work accessible and replicable.
 
 
 ### Business problem:
